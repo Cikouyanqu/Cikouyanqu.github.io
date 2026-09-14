@@ -1,0 +1,7 @@
+# Keep 主题覆盖配置（只覆盖与主题默认不同的项）
+base_info:
+  title: 我的博客
+  author: Cikouyanqu
+
+footer:
+  since: 2026
